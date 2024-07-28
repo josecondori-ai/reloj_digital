@@ -18,7 +18,7 @@ Este proyecto es un reloj digital que muestra la hora en formato de 12 horas con
 - 💻 **JavaScript**: Lógica para actualizar la hora y manejar las animaciones.
 
 ## Demostración
-¡Mira una demostración del reloj en acción! [Enlace a la demostración](#)
+¡Mira una demostración del reloj en acción! [Enlace a la demostración](https://josecondori-ai.github.io/reloj_digital/)
 
 ## Cómo Usar
 
